@@ -2,8 +2,8 @@ xgame
 =====
 
 xgame list 
-Looking to find some good script to start building MMORPG game.
+Open to Contribute in MMORPG's e.g. building design, ship design, space artwork, expanding game concept strategy.
 
 Preferred Space Game Strategy
 
-any ideas let me know 
+
